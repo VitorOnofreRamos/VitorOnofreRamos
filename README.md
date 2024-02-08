@@ -6,7 +6,7 @@
 
   - Possuo 19 anos e estou cursando o segundo semestre de Tecnólogo em Análise e Desenvolvimento de Sistemas na FIAP.
   
-  - Busco aprimorar meus conhecimentos e seguir carreira no ramo da tecnologia.
+  - Busco aprimorar meus conhecimentos acadêmicos para seguir carreira no ramo da tecnologia.
 </details>
 
 &nbsp;
