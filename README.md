@@ -15,8 +15,8 @@
 <div> 
     <a href = "mailto:v1toronofreramos@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge">
     </a>
-    <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a> -->
+    <a href="https://www.linkedin.com/in/vitor-onofre-ramos-837908273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
 </div>
 
 &nbsp; 
