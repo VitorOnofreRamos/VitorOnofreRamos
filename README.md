@@ -1,8 +1,7 @@
 ## Vitor Onofre Ramos
-
 <p><em><a href="https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/">Tecnologo em Análise e Desenvolvimento de Sistemas - FIAP</a></em></p>
 <details>
-  <summary><em>Mais informações</em></summary>
+  <summary>Sobre mim:</summary>
 
 Atualmente, sou estudante Tecnólogo em Análise e Desenvolvimento de Sistemas, cursando o segundo semestre da faculdade, e estou em busca de uma carreira na área de tecnologia.
 
@@ -17,7 +16,7 @@ Aqui estão algumas das minhas habilidades:
 Embora eu ainda não tenha experiência profissional, estou ansioso para aprender, crescer e contribuir para projetos empolgantes na área de tecnologia.
 </details>
 
-### Formas de Contato
+Formas de Contato:
 <div> 
     <a href = "mailto:v1toronofreramos@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge">
     </a>
