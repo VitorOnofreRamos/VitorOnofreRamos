@@ -16,7 +16,7 @@ Aqui estão algumas das minhas habilidades:
 
 Embora eu ainda não tenha experiência profissional, estou ansioso para aprender, crescer e contribuir para projetos empolgantes na área de tecnologia.
 </details>
-
+---
 &nbsp;
 ### Formas de Contato
 <div> 
