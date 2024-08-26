@@ -16,8 +16,7 @@ Aqui estão algumas das minhas habilidades:
 
 Embora eu ainda não tenha experiência profissional, estou ansioso para aprender, crescer e contribuir para projetos empolgantes na área de tecnologia.
 </details>
----
-&nbsp;
+
 ### Formas de Contato
 <div> 
     <a href = "mailto:v1toronofreramos@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge">
