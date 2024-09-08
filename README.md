@@ -12,8 +12,6 @@ Aqui estão algumas das minhas habilidades:
  - Desenvolvimento Web: Tenho conhecimento em HTML, CSS, JavaScript, React e ASP.Net Core
  - Resolução de Problemas: Adoro enfrentar desafios e encontrar soluções criativas.
  - Trabalho em Equipe: Acredito que a colaboração é essencial para o sucesso.
-
-Embora eu ainda não tenha experiência profissional, estou ansioso para aprender, crescer e contribuir para projetos empolgantes na área de tecnologia.
 </details>
 
 Formas de Contato:
