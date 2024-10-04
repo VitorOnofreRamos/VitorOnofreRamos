@@ -8,7 +8,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará alguns dos projetos signif
 
 ## Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=git,npm,js,ts,html,css,cs,java,py,kotlin,react,nextjs,nodejs,dotnet,gradle,androidstudio,vscode,visualstudio,idea,pycharm,sklearn,postman,figma,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,npm,js,ts,html,css,cs,java,py,kotlin,react,nextjs,nodejs,dotnet,spring,gradle,androidstudio,vscode,visualstudio,idea,pycharm,sklearn,postman,figma,windows,linux)](https://skillicons.dev)
 
 ## Formas de Contato:
 
