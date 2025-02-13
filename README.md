@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eee&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitor+Onofre+Ramos;I'm+20+years+old;I+from+Brasil,+SP;Be+Welcome!+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eee&size=35&center=true&vCenter=true&background=0d1117&width=1000&lines=HELLO,+MY+NAME+is+Vitor+Onofre+Ramos;I'm+20+years+old;I+from+Brasil,+SP;Be+Welcome!+:D)](https://git.io/typing-svg)
 
 #### [Tecnólogo em Análise e Desenvolvimento de Sistemas - FIAP](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
 
