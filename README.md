@@ -1,6 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:120082,100:01e866&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eee&size=35&center=true&vCenter=true&background=0d1117&width=1000&lines=HELLO,+MY+NAME+is+Vitor+Onofre+Ramos;I'm+20+years+old;I+from+Brasil,+SP;Be+Welcome!+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eee&size=35&center=true&vCenter=true&background=0d1117&width=1000&lines=HELLO!_;My+name+is+Vitor+Onofre+Ramos_;Be+Welcome+to+my+Github+profile!_)](https://git.io/typing-svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&&color=0:120082,50:01e866,100:0058bb&height=120&section=footer"/>
 
 #### [Tecnólogo em Análise e Desenvolvimento de Sistemas - FIAP](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
 
@@ -17,5 +19,3 @@
 
 [![mailto:v1toronofreramos@outlook.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:v1toronofreramos@outlook.com)&nbsp;
 [![https://www.linkedin.com/in/vitor-onofre-ramos-837908273](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-onofre-ramos-837908273)&nbsp;
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
