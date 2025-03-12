@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eee&size=35&center=true&vCenter=true&background=0d1117&width=1000&lines=HELLO!_;My+name+is+Vitor+Onofre+Ramos_;Be+Welcome+to+my+Github+profile!_)](https://git.io/typing-svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:120082,50:01e866,100:0058bb&height=120&section=footer"/>
-
 #### [Tecnólogo em Análise e Desenvolvimento de Sistemas - FIAP](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
 
 <div align="center">
@@ -11,9 +9,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorOnofreRamos&layout=compact&hide_border=false&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:120082,50:01e866,100:0058bb&height=120&section=footer"/>
+
 ### Main Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=git,npm,js,ts,html,css,cs,java,py,kotlin,react,nextjs,nodejs,dotnet,spring,gradle,docker,androidstudio,vscode,visualstudio,idea,pycharm,sklearn,postman,figma,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,npm,js,ts,html,css,cs,java,py,kotlin,flutter,react,nextjs,nodejs,dotnet,spring,gradle,docker,androidstudio,vscode,visualstudio,idea,pycharm,sklearn,postman,figma,windows,linux)](https://skillicons.dev)
 
 ### Formas de Contato:
 
