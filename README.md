@@ -6,7 +6,7 @@
 
 <div align="center">
   <img width="46%" height="200px" src="https://github-readme-stats.vercel.app/api?username=VitorOnofreRamos&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
-  <img width="46%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorOnofreRamos&layout=compact&hide_border=false&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="46%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorOnofreRamos&layout=compact&hide_border=false&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:120082,50:01e866,100:0058bb&height=120&section=footer"/>
